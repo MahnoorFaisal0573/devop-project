@@ -1,0 +1,18 @@
+name: Production CD
+
+on:
+  pull_request:
+    branches: [release]
+  push:
+    branches: [production]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Build website
+        run: npx parcel build src/index.html --out-dir dist
+      - name: Deploy to Production
+        uses: actions/deploy-pages@v4
