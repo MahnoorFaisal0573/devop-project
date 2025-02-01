@@ -1,0 +1,15 @@
+14
+50C:\Users\hp\Documents\devpro\devop-project\.github133829066150483194 1
+55C:\Users\hp\Documents\devpro\devop-project\package.json133829078468416228 0
+53C:\Users\hp\Documents\devpro\devop-project\.gitignore133829064773316546 0
+59C:\Users\hp\Documents\devpro\devop-project\.htmlhintrc.json133829074118329186 0
+60C:\Users\hp\Documents\devpro\devop-project\.stylelintrc.json133829075553088826 0
+82C:\Users\hp\Documents\devpro\devop-project\Final-Term Project-DevOps-Fall2024.docx133829064773366534 0
+47C:\Users\hp\Documents\devpro\devop-project\dist133829082665315757 1
+46C:\Users\hp\Documents\devpro\devop-project\src133829064773426549 1
+57C:\Users\hp\Documents\devpro\devop-project\repo-config.sh133829064773406533 0
+49C:\Users\hp\Documents\devpro\devop-project\styles133829064773456512 1
+60C:\Users\hp\Documents\devpro\devop-project\.github\workflows133829072659729654 1
+59C:\Users\hp\Documents\devpro\devop-project\styles\index.css133829064773456512 0
+57C:\Users\hp\Documents\devpro\devop-project\src\index.html133829064773426549 0
+58C:\Users\hp\Documents\devpro\devop-project\dist\index.html133829082665195840 0
